@@ -1,1 +1,1 @@
-# Naive-Bayes_Dok-man-S-n-fland-rma
+# Naive-Bayes_Dokuman-Siniflandirma
